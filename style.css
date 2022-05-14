@@ -1,0 +1,8 @@
+.t-danger:hover {
+  color: rgb(42, 84, 221);
+  cursor: pointer;
+}
+.t-danger {
+  color: rgb(13, 63, 228);
+  margin: 0 4px;
+}
